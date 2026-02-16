@@ -1,0 +1,10 @@
+# push application
+displaying all files which is not in github
+>> git status
+
+pushing all files
+>> git add .
+>> git status
+>> git commit -m "commit message"
+>> git push
+>> git push --set-upstream origin master
