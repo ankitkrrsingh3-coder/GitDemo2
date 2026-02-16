@@ -7,4 +7,4 @@ pushing all files
 >> git status
 >> git commit -m "commit message"
 >> git push
->> git push --set-upstream origin master
+>> git push --set-upstream origin main
